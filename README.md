@@ -1,4 +1,4 @@
-# 🚀 Cognizant Digital Nurture 5.0 - Deep Skilling Program
+# 🚀 Cognizant Digital Nurture 5.0 – Deep Skilling Program
 
 <div align="center">
 
@@ -6,9 +6,9 @@
 
 ### Hands-on Practice • Weekly Learning • Skill Development
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo?style=for-the-badge)
+💡 A structured repository containing all hands-on exercises, assignments, and learning resources completed during the Cognizant Digital Nurture 5.0 Program.
+
+⭐ Explore the branches to access week-wise content.
 
 </div>
 
@@ -16,15 +16,29 @@
 
 ## 🌟 About This Repository
 
-This repository contains my complete journey through the **Cognizant Digital Nurture 5.0 - Deep Skilling Program**.
+This repository serves as a centralized collection of all my work completed during the **Cognizant Digital Nurture 5.0 – Deep Skilling Program**.
 
-The repository is organized **week-wise**, where each week's hands-on practice, assignments, and learning materials are maintained in separate branches for better organization and easy navigation.
+The content is organized **week-wise using separate branches**, making it easy to navigate and track learning progress throughout the program.
 
 ---
 
-## 🗂️ Repository Structure
+## 🗺️ Repository Navigation Guide
 
-All weekly content is available in dedicated branches.
+### New to this Repository?
+
+All weekly content is stored in separate branches.
+
+To access a specific week's work:
+
+1. Click the **Branch Selector** dropdown on GitHub.
+2. Choose the required week's branch.
+3. Browse the exercises, assignments, and solutions available in that branch.
+
+📌 **Each branch represents one week's learning journey.**
+
+---
+
+## 📂 Week-wise Branch Structure
 
 | Week   | Branch Name               |
 | ------ | ------------------------- |
@@ -37,30 +51,20 @@ All weekly content is available in dedicated branches.
 | Week 7 | `week7_hands_on_practice` |
 | Week 8 | `week8_hands_on_practice` |
 
-> Replace the branch names according to your repository.
+> Update branch names according to your actual repository structure.
 
 ---
 
-## 🧭 How to Access Weekly Content
-
-### Method 1: Using GitHub
-
-1. Click on the **Branch Selector** dropdown.
-2. Select the branch corresponding to the week you want to access.
-3. Browse the hands-on exercises and solutions.
-
----
-
-### Method 2: Using Git Commands
+## 🧭 Accessing Content Locally
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Cognizant-Digital-Nurture-5.0_DeepSkilling.git
-cd Cognizant-Digital-Nurture-5.0_DeepSkilling
+git clone https://github.com/mohit-kumar2511/Cognizant-Digital-nurture-5.0_DeepSkilling.git
+cd Cognizant-Digital-nurture-5.0_DeepSkilling
 ```
 
-View all available branches:
+View all branches:
 
 ```bash
 git branch -a
@@ -78,7 +82,7 @@ git checkout week1_hands_on_practice
 
 ### ✅ Hands-on Practice
 
-Weekly coding exercises and implementations.
+Weekly coding exercises and practical implementations.
 
 ### ✅ Assignments
 
@@ -86,52 +90,55 @@ Program assignments and their solutions.
 
 ### ✅ Learning Notes
 
-Concept summaries and important learnings.
+Important concepts and revision notes.
 
 ### ✅ Practice Questions
 
-Additional questions solved during the program.
+Additional coding and problem-solving questions.
 
 ### ✅ Skill Development
 
-Problem-solving approaches and coding best practices.
+Industry-oriented concepts, best practices, and learning resources.
 
 ---
 
-## 🎯 Learning Goals
+## 🎯 Learning Objectives
 
 * Strengthen Programming Fundamentals
-* Improve Problem Solving Skills
+* Improve Problem-Solving Skills
 * Gain Industry-Oriented Knowledge
-* Learn Best Coding Practices
+* Practice Real-World Development Concepts
 * Build Strong Technical Foundations
 
 ---
 
-## 👨‍💻 Contributor
+## 👨‍💻 Maintainer
 
 **Mohit Kumar**
 
-B.Tech CSE | GLA University, Mathura
+🎓 B.Tech Computer Science & Engineering
+🏫 GLA University, Mathura
 
 ---
 
-## ⭐ Support
+## 🤝 Contributions
 
-If you found this repository useful:
+Suggestions, improvements, and discussions are always welcome.
+
+If you find this repository useful:
 
 ⭐ Star the repository
 
 🍴 Fork the repository
 
-📢 Share with fellow learners
+📢 Share it with fellow learners
 
 ---
 
 <div align="center">
 
-### 🚀 Happy Learning & Happy Coding!
+## 🚀 Happy Learning & Happy Coding!
 
-**Cognizant Digital Nurture 5.0 - Deep Skilling Program**
+### Cognizant Digital Nurture 5.0 – Deep Skilling Program
 
 </div>
