@@ -44,8 +44,6 @@ Each week's practice work is maintained in a separate branch for better organiza
 | Week 4 | `week4_hands_on_practice` |
 | Week 5 | `week5_hands_on_practice` |
 | Week 6 | `week6_hands_on_practice` |
-| Week 7 | `week7_hands_on_practice` |
-| Week 8 | `week8_hands_on_practice` |
 
 > Update branch names according to your repository.
 
